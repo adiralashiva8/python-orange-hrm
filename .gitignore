@@ -1,0 +1,8 @@
+# Created by pytest automatically.
+.idea
+.pytest_cache
+__pycache__
+assets
+.vscode
+venv
+*.pyc
